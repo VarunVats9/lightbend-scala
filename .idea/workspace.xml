@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63f858a8-a968-4186-8229-a0178d24060b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aY6aN7c7Wl3WOfTFGzIE6tgcTF" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lightbend.training.scalatrain" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="base" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="base [file:/Users/v0v00bl/Downloads/LSL-P-lightbend-scala-language-professional/exercises/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="common [file:/Users/v0v00bl/Downloads/LSL-P-lightbend-scala-language-professional/exercises/]" />
+                <option name="path" value="$PROJECT_DIR$/common" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="exercises [file:/Users/v0v00bl/Downloads/LSL-P-lightbend-scala-language-professional/exercises/]" />
+                <option name="path" value="$PROJECT_DIR$/exercises" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="base-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="17442584846546" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3613670086" />
+        <entry key="$PROJECT_DIR$/project/AdditionalSettings.scala" value="2349573283" />
+        <entry key="$PROJECT_DIR$/project/CommonSettings.scala" value="3507679501" />
+        <entry key="$PROJECT_DIR$/project/CompileOptions.scala" value="1555338004" />
+        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="740050381" />
+        <entry key="$PROJECT_DIR$/project/Man.scala" value="4220285629" />
+        <entry key="$PROJECT_DIR$/project/Navigation.scala" value="3706378638" />
+        <entry key="$PROJECT_DIR$/project/SavedStates.scala" value="3567903481" />
+        <entry key="$PROJECT_DIR$/project/ShellPrompt.scala" value="1612609151" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2538779230" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/IQSWriteThroughCache" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/UberGlobalIndex" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/UberGlobalIndexV2" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/akka-es-connector" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/gci-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/itemservices-sparkjob-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/scala-at-light-speed" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/uber-solr-cleanup" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63f858a8-a968-4186-8229-a0178d24060b" name="Default Changelist" comment="" />
+      <created>1586900242322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586900242322</updated>
+      <workItem from="1586900245790" duration="2544000" />
+      <workItem from="1586974049457" duration="10688000" />
+      <workItem from="1587123417576" duration="5133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1587071653743">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1587071653743" />
+    <state x="613" y="391" width="456" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587031700131">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="613" y="391" width="456" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1587031700131" />
+    <state x="349" y="134" key="SettingsEditor" timestamp="1586974440913">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="349" y="134" key="SettingsEditor/0.23.1680.944@0.23.1680.944" timestamp="1586974440913" />
+    <state x="519" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1586974054757">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="519" y="327" key="com.intellij.ide.util.TipDialog/0.23.1680.944@0.23.1680.944" timestamp="1586974054757" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1587022397843">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587022397843" />
+  </component>
+</project>

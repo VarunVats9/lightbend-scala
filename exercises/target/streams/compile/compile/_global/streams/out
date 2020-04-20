@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/v0v00bl/Downloads/LSL-P-lightbend-scala-language-professional/exercises/exercises/src/main/scala/com/lightbend/training/scalatrain/TrainInfo.scala:3:23: TrainInfo is already defined as class TrainInfo[0m
+[0m[[0m[31merror[0m] [0m[0msealed abstract class TrainInfo {[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/v0v00bl/Downloads/LSL-P-lightbend-scala-language-professional/exercises/exercises/src/main/scala/com/lightbend/training/scalatrain/TrainInfo.scala:7:12: InterCityExpress is already defined as case class InterCityExpress[0m
+[0m[[0m[31merror[0m] [0m[0mcase class InterCityExpress(hasWifi: Boolean = false) extends TrainInfo {[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/v0v00bl/Downloads/LSL-P-lightbend-scala-language-professional/exercises/exercises/src/main/scala/com/lightbend/training/scalatrain/TrainInfo.scala:10:12: RegionalExpress is already defined as case class RegionalExpress[0m
+[0m[[0m[31merror[0m] [0m[0mcase class RegionalExpress(hasWifi: Boolean) extends TrainInfo {[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/v0v00bl/Downloads/LSL-P-lightbend-scala-language-professional/exercises/exercises/src/main/scala/com/lightbend/training/scalatrain/TrainInfo.scala:13:12: BavarianRegional is already defined as case class BavarianRegional[0m
+[0m[[0m[31merror[0m] [0m[0mcase class BavarianRegional(hasWifi: Boolean) extends TrainInfo {[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
